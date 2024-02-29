@@ -1,3 +1,6 @@
 {
-    "port": "COM4"
+    "port": "COM4",
+    "configuration": "flash=2097152_0,freq=133,opt=Small,rtti=Disabled,stackprotect=Disabled,exceptions=Disabled,dbgport=Disabled,dbglvl=None,usbstack=picosdk,ipbtstack=ipv4only,uploadmethod=default",
+    "board": "rp2040:rp2040:rpipico",
+    "sketch": "..\\Flprog_Board_Info\\examples\\flprogBoardInfo.ino"
 }
