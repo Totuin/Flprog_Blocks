@@ -1,5 +1,5 @@
 {
-    "port": "COM4",
+    "port": "COM17",
     "board": "arduino:avr:uno",
     "sketch": "..\\Flprog_Modbus\\examples\\Modbus\\SlaveHardwareAndTCPW5100\\SlaveHardwareAndTCPW5100.ino"
 }
